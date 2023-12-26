@@ -1,0 +1,24 @@
+I know that C is a high-level program. I've read up on it a little bit so I know
+it was developed in the 1970's. C is a high level language which means it's easy for
+humans to read and write. This would be in contrast to low-level language which are used
+in computer hardware. C also require quite a lot of attention to detailm as small mistakes
+have the ability to rended the code useless. Semi-colons are also used a lot more 
+frequently then I'm used to. My most fluent language, Python, is object-oriented. 
+Everythings an objct, which makes it easy to use but a very, very slow and memory 
+consuming. I know C does not make everything an object automatically. This leve of 
+precision allows for more efficient code which I know I'll enjoy.
+
+I hope to learn from this course the building blocks of more commonly used programing 
+languages like C++. C++ is obviously derived from C, and understanding how C works will 
+grealty improve me as a developer. C also provide an entry way to low-level hardware
+resources which is what makes it so efficient in the first place.
+
+Now what concerns me about this course is quite a lot. My largest concern is the workload.
+I've spent 7 hours this week on the reading alone, I'm not sure is Phil knows how long it really takes. I'm also concerned about the two weekly projects. I hope that they're 
+smaller becasue that sounds intimidating at first glance. Again, I'm mostly concerned
+about the reading. It's very thorough and extensive, it doesn't leave time for working 
+on the projects. Since this is also his first time teaching this specific coure, I'm 
+worried the workload will be too intense.
+
+My future goals using CS skills after school is to enter the realm of cyber security or
+coding for financial software/programs. I'm getting a minor in Economics, so I believe they'll go nicely together.
